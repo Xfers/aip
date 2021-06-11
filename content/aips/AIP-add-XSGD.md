@@ -7,7 +7,6 @@ shortDescription: Add Support for the Digital Singapore Dollar XSGD
 discussions: https://governance.aave.com/t/arc-add-xsgd-support-as-collateral/4260
 created: 2021-06-09
 updated: 2021-06-09
-# requires (*optional): <AIP number(s)>
 ---
 
 ## Simple Summary
